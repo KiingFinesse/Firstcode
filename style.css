@@ -1,0 +1,35 @@
+body{
+    background: url("http://bestanimations.com/Earth&Space/Earth/earth-spinning-rotating-animation-25-2.gif") no-repeat fixed center;
+    background-size:50% 70%;
+
+    
+    
+
+}
+h1{
+text-align:CENTER;
+background-color:rgb(0, 255, 255);
+}
+h2{
+text-align:center;
+background-color:rgb( 0,255, 255);
+}
+p{
+color:rgb(	0, 0, 0);
+background:rgb(255,255,255);
+text-align:left;
+}
+img{ 
+    display: inline;
+    width: 300px;
+    height: 300px;
+}
+div{
+    display: block;
+    min-width:300px;
+    min-height:300px;
+
+}
+div img{
+    float:left;
+}
